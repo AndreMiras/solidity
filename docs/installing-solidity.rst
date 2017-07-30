@@ -127,7 +127,7 @@ Gentoo Linux also provides a solidity package that can be installed using ``emer
 
 .. code:: bash
 
-    demerge ev-lang/solidity
+    emerge dev-lang/solidity
 
 .. _building-from-source:
 
